@@ -2,7 +2,7 @@
 This repository contains the whole report related to project.
 
 
-Explored the VANET technology, taht helps to enhance transportation safety through intelligent vehicle communication. DABFS routing protocol is studied and used for efficient warning message transmission in bidirectional traffic in this project.
+Explored the VANET technology, thatt helps to enhance transportation safety through intelligent vehicle communication. DABFS routing protocol is studied and used for efficient warning message transmission in bidirectional traffic in this project.
 VANET-Vehicular ad hoc networks is an intelligent component of the transport system that helps the vehicles to communicate with each other and with roadside components too. 
 It plays a very important role in transportation systems by ensuring the fact that less accidents take place over a period of time. 
 This vehicle-to-vehicle communication is a wireless transmission of data/messages between vehicles which are nearby and offers services for safety improvements.
